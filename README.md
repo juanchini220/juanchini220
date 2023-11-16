@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Juan Ignacio Orrego</h1>
+<h1 align="center">Juan Ignacio Orrego</h1>
 <h3 align="center">Passionate game developer and designer with expertise in 3D modeling and audio FX design.</h3>
 
 <p align="left"> <a href="https://twitter.com/juanorrego220" target="blank"><img src="https://img.shields.io/twitter/follow/juanorrego220?logo=twitter&style=for-the-badge" alt="juanorrego220" /></a> </p>
